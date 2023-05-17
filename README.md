@@ -35,7 +35,11 @@ The examples for training and test are included in train.sh and test.sh. For dir
 ## Citations
 If you use this code as part of any published research, we'd really appreciate it if you could cite the following paper:
 ```text
-
+@inproceedings{Zou2023UniSMMCMC,
+  title={UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning},
+  author={Heqing Zou and Meng Shen and Chen Chen and Yuchen Hu and Deepu Rajan and Eng Siong Chng},
+  year={2023}
+}
 ```
 
 ## License
