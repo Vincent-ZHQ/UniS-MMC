@@ -1,5 +1,5 @@
 # UniS-MMC
-Code for UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning (ACL 2023 Findings)
+Code for [UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning](https://arxiv.org/abs/2305.09299) (ACL 2023 Findings)
 
 ## Environemt
 Python=3.8, Pytorch=1.8.0, CUDA=11.1
